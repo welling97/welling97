@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=welling97" alt="welling97" /></a> </p>
 
-- 🔭 Atualmente estou trabalhandando **na Seduc**
+- 🔭 Atualmente estou trabalhandando **como estagiario na Seduc**
 
 - 👯 Eu procuro colaborar em projetos **projetos Desenvolvimento Web**
 
