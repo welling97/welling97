@@ -7,7 +7,7 @@
 
 - 💬 Me pergunte sobre **tecnologia, aplicações Web, front-end, Back-End, Crud, ficarei grato em ajudar.**
 
-- 📫 Fale comigo em **pnheirowellington110@gmail.com**
+- 📫 Fale comigo em **pinheirowellington110@gmail.com**
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=welling97&label=Profile%20views&color=0e75b6&style=flat" alt="welling97" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=welling97&show_icons=true&locale=en" alt="welling97" /></p>
